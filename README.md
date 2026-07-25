@@ -6,4 +6,4 @@ la imagen por URL: Buffer no acepta archivos locales.
 
 - Se sincroniza con `Contenido/output/sync_assets.mjs` (nunca a mano).
 - Solo entra lo que Santi ya aprobo en el visor. Todo aqui es publico.
-- Sirve por GitHub Pages: https://isatabi03-afk.github.io/fixu-content-assets/
+- Se sirve por raw.githubusercontent.com (verificado con Buffer el 25-jul).
